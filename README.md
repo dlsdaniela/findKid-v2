@@ -7,7 +7,7 @@
 <li>git init</li>
 <li>git commit -m "Mensagem do commit"</li>
 <li>git branch -M nomeDaBranch</li>
-<li>git remote add origin https://github.com/dlsdaniela/FindKidTCC.git</li>
+<li>git remote add origin https://github.com/dlsdaniela/findkid-v2.git</li>
 <li>git push -u origin nomeDaBranch</li>
 </ul>
 
