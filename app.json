@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "my-project",
-    "slug": "my-project",
+    "name": "FindKid",
+    "slug": "findKid",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/image/icone.png",
+    "icon": "./assets/image/logoNovo.png",
     "splash": {
-      "image": "./assets/image/splash.png",
+      "image": "./assets/image/splashNew.png",
       "resizeMode": "cover",
       "backgroundColor": "#ffffff"
     },
